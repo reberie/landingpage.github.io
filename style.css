@@ -1,0 +1,141 @@
+body {
+    background: #151719;
+}
+
+hr {
+    color: #2c3e50;
+}
+
+.navbar .navbar-nav .nav-item {
+    padding-right: 3.5rem;
+}
+
+
+.navbar .navbar-nav .nav-item a{
+    font-size: 1.05rem;
+    font-weight: 500;
+    color:#95a5a6;
+}
+
+.navbar .navbar-nav button {
+    background: #6163FF;
+    padding: 0.1rem 1.7rem;
+    font-size: 1rem;
+    font-weight: 700;
+    border: none;
+    border-radius: 2px;
+    color: #E7E8EE;
+} 
+
+.mid h1 {
+    color: #ECEDED;
+    font-weight: 900;
+}
+
+.mid h1 span {
+    color: #5658DE;
+}
+
+.mid p {
+    width: 60%;
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: #97A4AE;
+    word-spacing: .1rem;
+}
+
+.mid .row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.mid .row button {
+    background: #6163FF;
+    padding: 0.7rem 2rem;
+    font-size: 1rem;
+    font-weight: 700;
+    border: none;
+    border-radius: 2px;
+    color: #E7E8EE;
+}
+
+body > header > div > h1.text2 {
+    font-weight: 900;
+    font-size: 3rem;
+    color: #E7E8EE;
+}
+
+h3{
+    color: #ECEDED;
+    font-weight: 700;
+}
+
+
+body > section > div > div{
+    color: #97A4AE;
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+
+.about h1 {
+    font-weight: 900;
+    font-size: 3rem;
+    color: #E7E8EE;
+}
+
+.about p {
+    color: #97A4AE;
+    font-weight: 500;
+    font-size: 1.3rem;
+    word-spacing: 0.01rem;
+}
+
+body > section.about.container.my-5 > div > div.content.col-lg-6.col-md-6.col-12.p-4 > h6 {
+    color: #5658DD;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+body > section.about.container.my-5 > div > div.content.col-lg-6.col-md-6.col-12.p-4 > h2 {
+    font-weight: 900;
+    font-size: 2.2rem;
+    color: #E7E8EE;
+}
+
+.feedback h1 {
+    font-weight: 900;
+    font-size: 3rem;
+    color: #E7E8EE;
+}
+
+.feedback p {
+    color: #97A4AE;
+    font-weight: 500;
+    font-size: 1.3rem;
+    word-spacing: 0.01rem;
+}
+
+.feedback .row div{
+    background: #25282C;
+    padding: 1rem 1.7rem;
+    color: #fff
+}
+
+.feedback .row div p{
+    color: #97A4AE;
+    font-weight: 500;
+    font-size: 1.1rem;
+    
+}
+
+.feedback .row div h4{
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: #ECEDED;   
+}
+
+.feedback .row div h4 span{
+    color: #1CB58A;   
+}
